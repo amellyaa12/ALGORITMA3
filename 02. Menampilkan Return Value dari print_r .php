@@ -4,4 +4,4 @@ $hasil = print_r($mobil, true);
 
 echo $hasil;
 
-echo "<br><br><strong>By Amellya";
+echo "<br><br><strong>By Amellya<strong>";

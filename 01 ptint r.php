@@ -5,5 +5,7 @@ print_r("<p>");
 $buah = array("apel", "pisang", "ceri");
 print_r($buah);
 
+echo "<br><br><strong>By Amellya<strong>";
+
 
 ?>
