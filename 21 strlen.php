@@ -1,0 +1,5 @@
+<?php
+$text = "Hello World!";
+echo strlen($text); // Outputs: 12
+echo "<br><br><strong>By Amellya</strong>";
+
